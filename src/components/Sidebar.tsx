@@ -12,10 +12,10 @@ export function Sidebar() {
       />
 
       <div className={styles.profile}>
-        <Avatar src="https://github.com/maykbrito.png" />
+        <Avatar src="https://github.com/EngJao89.png" />
 
-        <strong>Diego Fernandes</strong>
-        <span>Web Developer</span>
+        <strong>João Ricardo Martins Ribeiro</strong>
+        <span>Mobile Software Developer</span>
       </div>
 
       <footer>
